@@ -1,0 +1,501 @@
+Norm,Topic,Agent,Stance,Argument
+Norm 1,Freedom of Speech,Agent1,disagree,Agent1 believes this because it encourages innovation.
+Norm 1,Freedom of Speech,Agent2,agree,Agent2 believes this because it is risky.
+Norm 1,Freedom of Speech,Agent3,disagree,Agent3 believes this because it is fair.
+Norm 1,Freedom of Speech,Agent4,disagree,Agent4 believes this because it is risky.
+Norm 1,Freedom of Speech,Agent5,neutral,Agent5 believes this because it encourages innovation.
+Norm 1,Freedom of Speech,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 1,Freedom of Speech,Agent7,agree,Agent7 believes this because it is fair.
+Norm 1,Freedom of Speech,Agent8,neutral,Agent8 believes this because it is fair.
+Norm 1,Freedom of Speech,Agent9,neutral,Agent9 believes this because it is risky.
+Norm 1,Freedom of Speech,Agent10,disagree,Agent10 believes this because it encourages innovation.
+Norm 2,Animal Rights,Agent1,neutral,Agent1 believes this because it is fair.
+Norm 2,Animal Rights,Agent2,neutral,Agent2 believes this because it is fair.
+Norm 2,Animal Rights,Agent3,agree,Agent3 believes this because it is fair.
+Norm 2,Animal Rights,Agent4,agree,Agent4 believes this because it encourages innovation.
+Norm 2,Animal Rights,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 2,Animal Rights,Agent6,neutral,Agent6 believes this because it encourages innovation.
+Norm 2,Animal Rights,Agent7,disagree,Agent7 believes this because it is fair.
+Norm 2,Animal Rights,Agent8,neutral,Agent8 believes this because it is fair.
+Norm 2,Animal Rights,Agent9,agree,Agent9 believes this because it is fair.
+Norm 2,Animal Rights,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 3,Data Privacy,Agent1,neutral,Agent1 believes this because it is risky.
+Norm 3,Data Privacy,Agent2,agree,Agent2 believes this because it is risky.
+Norm 3,Data Privacy,Agent3,disagree,Agent3 believes this because it is fair.
+Norm 3,Data Privacy,Agent4,disagree,Agent4 believes this because it is fair.
+Norm 3,Data Privacy,Agent5,disagree,Agent5 believes this because it is risky.
+Norm 3,Data Privacy,Agent6,neutral,Agent6 believes this because it is fair.
+Norm 3,Data Privacy,Agent7,neutral,Agent7 believes this because it is fair.
+Norm 3,Data Privacy,Agent8,neutral,Agent8 believes this because it is fair.
+Norm 3,Data Privacy,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 3,Data Privacy,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 4,Space Exploration,Agent1,agree,Agent1 believes this because it encourages innovation.
+Norm 4,Space Exploration,Agent2,agree,Agent2 believes this because it encourages innovation.
+Norm 4,Space Exploration,Agent3,agree,Agent3 believes this because it is fair.
+Norm 4,Space Exploration,Agent4,agree,Agent4 believes this because it is risky.
+Norm 4,Space Exploration,Agent5,neutral,Agent5 believes this because it encourages innovation.
+Norm 4,Space Exploration,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 4,Space Exploration,Agent7,agree,Agent7 believes this because it is fair.
+Norm 4,Space Exploration,Agent8,disagree,Agent8 believes this because it is fair.
+Norm 4,Space Exploration,Agent9,agree,Agent9 believes this because it is fair.
+Norm 4,Space Exploration,Agent10,disagree,Agent10 believes this because it encourages innovation.
+Norm 5,Healthcare Accessibility,Agent1,agree,Agent1 believes this because it is risky.
+Norm 5,Healthcare Accessibility,Agent2,agree,Agent2 believes this because it encourages innovation.
+Norm 5,Healthcare Accessibility,Agent3,agree,Agent3 believes this because it is fair.
+Norm 5,Healthcare Accessibility,Agent4,disagree,Agent4 believes this because it encourages innovation.
+Norm 5,Healthcare Accessibility,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 5,Healthcare Accessibility,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 5,Healthcare Accessibility,Agent7,agree,Agent7 believes this because it is risky.
+Norm 5,Healthcare Accessibility,Agent8,neutral,Agent8 believes this because it is fair.
+Norm 5,Healthcare Accessibility,Agent9,disagree,Agent9 believes this because it is fair.
+Norm 5,Healthcare Accessibility,Agent10,agree,Agent10 believes this because it is fair.
+Norm 6,Climate Change,Agent1,neutral,Agent1 believes this because it is risky.
+Norm 6,Climate Change,Agent2,neutral,Agent2 believes this because it encourages innovation.
+Norm 6,Climate Change,Agent3,neutral,Agent3 believes this because it encourages innovation.
+Norm 6,Climate Change,Agent4,agree,Agent4 believes this because it is fair.
+Norm 6,Climate Change,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 6,Climate Change,Agent6,neutral,Agent6 believes this because it is fair.
+Norm 6,Climate Change,Agent7,disagree,Agent7 believes this because it is fair.
+Norm 6,Climate Change,Agent8,agree,Agent8 believes this because it is risky.
+Norm 6,Climate Change,Agent9,agree,Agent9 believes this because it is fair.
+Norm 6,Climate Change,Agent10,agree,Agent10 believes this because it encourages innovation.
+Norm 7,Data Privacy,Agent1,disagree,Agent1 believes this because it is fair.
+Norm 7,Data Privacy,Agent2,neutral,Agent2 believes this because it encourages innovation.
+Norm 7,Data Privacy,Agent3,neutral,Agent3 believes this because it is fair.
+Norm 7,Data Privacy,Agent4,neutral,Agent4 believes this because it encourages innovation.
+Norm 7,Data Privacy,Agent5,neutral,Agent5 believes this because it is fair.
+Norm 7,Data Privacy,Agent6,neutral,Agent6 believes this because it is fair.
+Norm 7,Data Privacy,Agent7,neutral,Agent7 believes this because it encourages innovation.
+Norm 7,Data Privacy,Agent8,agree,Agent8 believes this because it is fair.
+Norm 7,Data Privacy,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 7,Data Privacy,Agent10,disagree,Agent10 believes this because it is fair.
+Norm 8,Artificial Intelligence,Agent1,disagree,Agent1 believes this because it is risky.
+Norm 8,Artificial Intelligence,Agent2,agree,Agent2 believes this because it is risky.
+Norm 8,Artificial Intelligence,Agent3,disagree,Agent3 believes this because it is fair.
+Norm 8,Artificial Intelligence,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 8,Artificial Intelligence,Agent5,disagree,Agent5 believes this because it is risky.
+Norm 8,Artificial Intelligence,Agent6,agree,Agent6 believes this because it encourages innovation.
+Norm 8,Artificial Intelligence,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 8,Artificial Intelligence,Agent8,agree,Agent8 believes this because it encourages innovation.
+Norm 8,Artificial Intelligence,Agent9,disagree,Agent9 believes this because it is fair.
+Norm 8,Artificial Intelligence,Agent10,agree,Agent10 believes this because it is risky.
+Norm 9,Education Reform,Agent1,neutral,Agent1 believes this because it is fair.
+Norm 9,Education Reform,Agent2,disagree,Agent2 believes this because it is fair.
+Norm 9,Education Reform,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 9,Education Reform,Agent4,neutral,Agent4 believes this because it is risky.
+Norm 9,Education Reform,Agent5,neutral,Agent5 believes this because it is risky.
+Norm 9,Education Reform,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 9,Education Reform,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 9,Education Reform,Agent8,disagree,Agent8 believes this because it is fair.
+Norm 9,Education Reform,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 9,Education Reform,Agent10,neutral,Agent10 believes this because it encourages innovation.
+Norm 10,Universal Basic Income,Agent1,agree,Agent1 believes this because it is fair.
+Norm 10,Universal Basic Income,Agent2,neutral,Agent2 believes this because it encourages innovation.
+Norm 10,Universal Basic Income,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 10,Universal Basic Income,Agent4,neutral,Agent4 believes this because it is risky.
+Norm 10,Universal Basic Income,Agent5,agree,Agent5 believes this because it is risky.
+Norm 10,Universal Basic Income,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 10,Universal Basic Income,Agent7,disagree,Agent7 believes this because it is fair.
+Norm 10,Universal Basic Income,Agent8,neutral,Agent8 believes this because it is risky.
+Norm 10,Universal Basic Income,Agent9,disagree,Agent9 believes this because it is fair.
+Norm 10,Universal Basic Income,Agent10,agree,Agent10 believes this because it is risky.
+Norm 11,Healthcare Accessibility,Agent1,agree,Agent1 believes this because it is risky.
+Norm 11,Healthcare Accessibility,Agent2,disagree,Agent2 believes this because it is risky.
+Norm 11,Healthcare Accessibility,Agent3,disagree,Agent3 believes this because it encourages innovation.
+Norm 11,Healthcare Accessibility,Agent4,disagree,Agent4 believes this because it is fair.
+Norm 11,Healthcare Accessibility,Agent5,disagree,Agent5 believes this because it is fair.
+Norm 11,Healthcare Accessibility,Agent6,agree,Agent6 believes this because it is fair.
+Norm 11,Healthcare Accessibility,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 11,Healthcare Accessibility,Agent8,neutral,Agent8 believes this because it encourages innovation.
+Norm 11,Healthcare Accessibility,Agent9,disagree,Agent9 believes this because it encourages innovation.
+Norm 11,Healthcare Accessibility,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 12,Animal Rights,Agent1,agree,Agent1 believes this because it encourages innovation.
+Norm 12,Animal Rights,Agent2,agree,Agent2 believes this because it encourages innovation.
+Norm 12,Animal Rights,Agent3,disagree,Agent3 believes this because it is fair.
+Norm 12,Animal Rights,Agent4,agree,Agent4 believes this because it encourages innovation.
+Norm 12,Animal Rights,Agent5,disagree,Agent5 believes this because it is risky.
+Norm 12,Animal Rights,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 12,Animal Rights,Agent7,agree,Agent7 believes this because it is risky.
+Norm 12,Animal Rights,Agent8,disagree,Agent8 believes this because it is fair.
+Norm 12,Animal Rights,Agent9,disagree,Agent9 believes this because it encourages innovation.
+Norm 12,Animal Rights,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 13,Renewable Energy,Agent1,neutral,Agent1 believes this because it is risky.
+Norm 13,Renewable Energy,Agent2,disagree,Agent2 believes this because it encourages innovation.
+Norm 13,Renewable Energy,Agent3,neutral,Agent3 believes this because it is risky.
+Norm 13,Renewable Energy,Agent4,neutral,Agent4 believes this because it is risky.
+Norm 13,Renewable Energy,Agent5,agree,Agent5 believes this because it encourages innovation.
+Norm 13,Renewable Energy,Agent6,agree,Agent6 believes this because it encourages innovation.
+Norm 13,Renewable Energy,Agent7,disagree,Agent7 believes this because it encourages innovation.
+Norm 13,Renewable Energy,Agent8,agree,Agent8 believes this because it is fair.
+Norm 13,Renewable Energy,Agent9,neutral,Agent9 believes this because it is risky.
+Norm 13,Renewable Energy,Agent10,disagree,Agent10 believes this because it encourages innovation.
+Norm 14,Climate Change,Agent1,disagree,Agent1 believes this because it is risky.
+Norm 14,Climate Change,Agent2,disagree,Agent2 believes this because it is risky.
+Norm 14,Climate Change,Agent3,disagree,Agent3 believes this because it is fair.
+Norm 14,Climate Change,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 14,Climate Change,Agent5,neutral,Agent5 believes this because it is risky.
+Norm 14,Climate Change,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 14,Climate Change,Agent7,neutral,Agent7 believes this because it encourages innovation.
+Norm 14,Climate Change,Agent8,agree,Agent8 believes this because it is fair.
+Norm 14,Climate Change,Agent9,disagree,Agent9 believes this because it encourages innovation.
+Norm 14,Climate Change,Agent10,neutral,Agent10 believes this because it is fair.
+Norm 15,Healthcare Accessibility,Agent1,agree,Agent1 believes this because it is risky.
+Norm 15,Healthcare Accessibility,Agent2,neutral,Agent2 believes this because it is fair.
+Norm 15,Healthcare Accessibility,Agent3,disagree,Agent3 believes this because it encourages innovation.
+Norm 15,Healthcare Accessibility,Agent4,agree,Agent4 believes this because it is risky.
+Norm 15,Healthcare Accessibility,Agent5,disagree,Agent5 believes this because it is risky.
+Norm 15,Healthcare Accessibility,Agent6,disagree,Agent6 believes this because it encourages innovation.
+Norm 15,Healthcare Accessibility,Agent7,neutral,Agent7 believes this because it is risky.
+Norm 15,Healthcare Accessibility,Agent8,neutral,Agent8 believes this because it is risky.
+Norm 15,Healthcare Accessibility,Agent9,agree,Agent9 believes this because it is fair.
+Norm 15,Healthcare Accessibility,Agent10,agree,Agent10 believes this because it encourages innovation.
+Norm 16,Education Reform,Agent1,agree,Agent1 believes this because it is risky.
+Norm 16,Education Reform,Agent2,disagree,Agent2 believes this because it encourages innovation.
+Norm 16,Education Reform,Agent3,neutral,Agent3 believes this because it encourages innovation.
+Norm 16,Education Reform,Agent4,neutral,Agent4 believes this because it is risky.
+Norm 16,Education Reform,Agent5,agree,Agent5 believes this because it encourages innovation.
+Norm 16,Education Reform,Agent6,agree,Agent6 believes this because it is risky.
+Norm 16,Education Reform,Agent7,neutral,Agent7 believes this because it is risky.
+Norm 16,Education Reform,Agent8,agree,Agent8 believes this because it is risky.
+Norm 16,Education Reform,Agent9,disagree,Agent9 believes this because it encourages innovation.
+Norm 16,Education Reform,Agent10,disagree,Agent10 believes this because it is risky.
+Norm 17,Artificial Intelligence,Agent1,agree,Agent1 believes this because it is fair.
+Norm 17,Artificial Intelligence,Agent2,agree,Agent2 believes this because it is fair.
+Norm 17,Artificial Intelligence,Agent3,agree,Agent3 believes this because it is fair.
+Norm 17,Artificial Intelligence,Agent4,disagree,Agent4 believes this because it is risky.
+Norm 17,Artificial Intelligence,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 17,Artificial Intelligence,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 17,Artificial Intelligence,Agent7,agree,Agent7 believes this because it encourages innovation.
+Norm 17,Artificial Intelligence,Agent8,agree,Agent8 believes this because it is fair.
+Norm 17,Artificial Intelligence,Agent9,neutral,Agent9 believes this because it is fair.
+Norm 17,Artificial Intelligence,Agent10,agree,Agent10 believes this because it is fair.
+Norm 18,Animal Rights,Agent1,neutral,Agent1 believes this because it is risky.
+Norm 18,Animal Rights,Agent2,neutral,Agent2 believes this because it encourages innovation.
+Norm 18,Animal Rights,Agent3,agree,Agent3 believes this because it encourages innovation.
+Norm 18,Animal Rights,Agent4,agree,Agent4 believes this because it is fair.
+Norm 18,Animal Rights,Agent5,neutral,Agent5 believes this because it encourages innovation.
+Norm 18,Animal Rights,Agent6,disagree,Agent6 believes this because it is risky.
+Norm 18,Animal Rights,Agent7,agree,Agent7 believes this because it encourages innovation.
+Norm 18,Animal Rights,Agent8,disagree,Agent8 believes this because it encourages innovation.
+Norm 18,Animal Rights,Agent9,disagree,Agent9 believes this because it is fair.
+Norm 18,Animal Rights,Agent10,neutral,Agent10 believes this because it encourages innovation.
+Norm 19,Healthcare Accessibility,Agent1,disagree,Agent1 believes this because it is risky.
+Norm 19,Healthcare Accessibility,Agent2,neutral,Agent2 believes this because it encourages innovation.
+Norm 19,Healthcare Accessibility,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 19,Healthcare Accessibility,Agent4,disagree,Agent4 believes this because it encourages innovation.
+Norm 19,Healthcare Accessibility,Agent5,disagree,Agent5 believes this because it is risky.
+Norm 19,Healthcare Accessibility,Agent6,agree,Agent6 believes this because it is risky.
+Norm 19,Healthcare Accessibility,Agent7,neutral,Agent7 believes this because it is risky.
+Norm 19,Healthcare Accessibility,Agent8,disagree,Agent8 believes this because it is fair.
+Norm 19,Healthcare Accessibility,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 19,Healthcare Accessibility,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 20,Renewable Energy,Agent1,neutral,Agent1 believes this because it encourages innovation.
+Norm 20,Renewable Energy,Agent2,disagree,Agent2 believes this because it is risky.
+Norm 20,Renewable Energy,Agent3,neutral,Agent3 believes this because it is risky.
+Norm 20,Renewable Energy,Agent4,disagree,Agent4 believes this because it encourages innovation.
+Norm 20,Renewable Energy,Agent5,neutral,Agent5 believes this because it is fair.
+Norm 20,Renewable Energy,Agent6,agree,Agent6 believes this because it is fair.
+Norm 20,Renewable Energy,Agent7,agree,Agent7 believes this because it encourages innovation.
+Norm 20,Renewable Energy,Agent8,neutral,Agent8 believes this because it is fair.
+Norm 20,Renewable Energy,Agent9,agree,Agent9 believes this because it is fair.
+Norm 20,Renewable Energy,Agent10,agree,Agent10 believes this because it is fair.
+Norm 21,Climate Change,Agent1,disagree,Agent1 believes this because it encourages innovation.
+Norm 21,Climate Change,Agent2,agree,Agent2 believes this because it encourages innovation.
+Norm 21,Climate Change,Agent3,agree,Agent3 believes this because it is fair.
+Norm 21,Climate Change,Agent4,disagree,Agent4 believes this because it is fair.
+Norm 21,Climate Change,Agent5,neutral,Agent5 believes this because it is fair.
+Norm 21,Climate Change,Agent6,neutral,Agent6 believes this because it encourages innovation.
+Norm 21,Climate Change,Agent7,disagree,Agent7 believes this because it encourages innovation.
+Norm 21,Climate Change,Agent8,disagree,Agent8 believes this because it is risky.
+Norm 21,Climate Change,Agent9,agree,Agent9 believes this because it is fair.
+Norm 21,Climate Change,Agent10,agree,Agent10 believes this because it encourages innovation.
+Norm 22,Universal Basic Income,Agent1,disagree,Agent1 believes this because it is fair.
+Norm 22,Universal Basic Income,Agent2,disagree,Agent2 believes this because it is risky.
+Norm 22,Universal Basic Income,Agent3,disagree,Agent3 believes this because it encourages innovation.
+Norm 22,Universal Basic Income,Agent4,disagree,Agent4 believes this because it is fair.
+Norm 22,Universal Basic Income,Agent5,agree,Agent5 believes this because it is risky.
+Norm 22,Universal Basic Income,Agent6,agree,Agent6 believes this because it encourages innovation.
+Norm 22,Universal Basic Income,Agent7,disagree,Agent7 believes this because it encourages innovation.
+Norm 22,Universal Basic Income,Agent8,agree,Agent8 believes this because it is fair.
+Norm 22,Universal Basic Income,Agent9,neutral,Agent9 believes this because it is fair.
+Norm 22,Universal Basic Income,Agent10,agree,Agent10 believes this because it is risky.
+Norm 23,Artificial Intelligence,Agent1,agree,Agent1 believes this because it encourages innovation.
+Norm 23,Artificial Intelligence,Agent2,disagree,Agent2 believes this because it encourages innovation.
+Norm 23,Artificial Intelligence,Agent3,disagree,Agent3 believes this because it encourages innovation.
+Norm 23,Artificial Intelligence,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 23,Artificial Intelligence,Agent5,neutral,Agent5 believes this because it is risky.
+Norm 23,Artificial Intelligence,Agent6,agree,Agent6 believes this because it encourages innovation.
+Norm 23,Artificial Intelligence,Agent7,agree,Agent7 believes this because it is fair.
+Norm 23,Artificial Intelligence,Agent8,agree,Agent8 believes this because it encourages innovation.
+Norm 23,Artificial Intelligence,Agent9,neutral,Agent9 believes this because it encourages innovation.
+Norm 23,Artificial Intelligence,Agent10,neutral,Agent10 believes this because it is fair.
+Norm 24,Space Exploration,Agent1,agree,Agent1 believes this because it encourages innovation.
+Norm 24,Space Exploration,Agent2,agree,Agent2 believes this because it is risky.
+Norm 24,Space Exploration,Agent3,agree,Agent3 believes this because it is risky.
+Norm 24,Space Exploration,Agent4,disagree,Agent4 believes this because it encourages innovation.
+Norm 24,Space Exploration,Agent5,neutral,Agent5 believes this because it encourages innovation.
+Norm 24,Space Exploration,Agent6,disagree,Agent6 believes this because it encourages innovation.
+Norm 24,Space Exploration,Agent7,disagree,Agent7 believes this because it encourages innovation.
+Norm 24,Space Exploration,Agent8,agree,Agent8 believes this because it encourages innovation.
+Norm 24,Space Exploration,Agent9,neutral,Agent9 believes this because it is fair.
+Norm 24,Space Exploration,Agent10,disagree,Agent10 believes this because it is risky.
+Norm 25,Climate Change,Agent1,disagree,Agent1 believes this because it is risky.
+Norm 25,Climate Change,Agent2,neutral,Agent2 believes this because it encourages innovation.
+Norm 25,Climate Change,Agent3,disagree,Agent3 believes this because it encourages innovation.
+Norm 25,Climate Change,Agent4,agree,Agent4 believes this because it is risky.
+Norm 25,Climate Change,Agent5,agree,Agent5 believes this because it is fair.
+Norm 25,Climate Change,Agent6,neutral,Agent6 believes this because it is fair.
+Norm 25,Climate Change,Agent7,neutral,Agent7 believes this because it encourages innovation.
+Norm 25,Climate Change,Agent8,agree,Agent8 believes this because it is fair.
+Norm 25,Climate Change,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 25,Climate Change,Agent10,disagree,Agent10 believes this because it is risky.
+Norm 26,Artificial Intelligence,Agent1,agree,Agent1 believes this because it is fair.
+Norm 26,Artificial Intelligence,Agent2,neutral,Agent2 believes this because it is risky.
+Norm 26,Artificial Intelligence,Agent3,agree,Agent3 believes this because it encourages innovation.
+Norm 26,Artificial Intelligence,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 26,Artificial Intelligence,Agent5,disagree,Agent5 believes this because it is risky.
+Norm 26,Artificial Intelligence,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 26,Artificial Intelligence,Agent7,agree,Agent7 believes this because it is risky.
+Norm 26,Artificial Intelligence,Agent8,neutral,Agent8 believes this because it is risky.
+Norm 26,Artificial Intelligence,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 26,Artificial Intelligence,Agent10,neutral,Agent10 believes this because it encourages innovation.
+Norm 27,Artificial Intelligence,Agent1,disagree,Agent1 believes this because it is fair.
+Norm 27,Artificial Intelligence,Agent2,disagree,Agent2 believes this because it is risky.
+Norm 27,Artificial Intelligence,Agent3,disagree,Agent3 believes this because it is fair.
+Norm 27,Artificial Intelligence,Agent4,neutral,Agent4 believes this because it encourages innovation.
+Norm 27,Artificial Intelligence,Agent5,neutral,Agent5 believes this because it is risky.
+Norm 27,Artificial Intelligence,Agent6,agree,Agent6 believes this because it encourages innovation.
+Norm 27,Artificial Intelligence,Agent7,neutral,Agent7 believes this because it is fair.
+Norm 27,Artificial Intelligence,Agent8,agree,Agent8 believes this because it is fair.
+Norm 27,Artificial Intelligence,Agent9,neutral,Agent9 believes this because it is risky.
+Norm 27,Artificial Intelligence,Agent10,agree,Agent10 believes this because it is risky.
+Norm 28,Artificial Intelligence,Agent1,agree,Agent1 believes this because it is risky.
+Norm 28,Artificial Intelligence,Agent2,neutral,Agent2 believes this because it is fair.
+Norm 28,Artificial Intelligence,Agent3,agree,Agent3 believes this because it is fair.
+Norm 28,Artificial Intelligence,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 28,Artificial Intelligence,Agent5,neutral,Agent5 believes this because it is fair.
+Norm 28,Artificial Intelligence,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 28,Artificial Intelligence,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 28,Artificial Intelligence,Agent8,disagree,Agent8 believes this because it is risky.
+Norm 28,Artificial Intelligence,Agent9,agree,Agent9 believes this because it is fair.
+Norm 28,Artificial Intelligence,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 29,Universal Basic Income,Agent1,neutral,Agent1 believes this because it encourages innovation.
+Norm 29,Universal Basic Income,Agent2,disagree,Agent2 believes this because it encourages innovation.
+Norm 29,Universal Basic Income,Agent3,neutral,Agent3 believes this because it is fair.
+Norm 29,Universal Basic Income,Agent4,agree,Agent4 believes this because it is fair.
+Norm 29,Universal Basic Income,Agent5,agree,Agent5 believes this because it is risky.
+Norm 29,Universal Basic Income,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 29,Universal Basic Income,Agent7,agree,Agent7 believes this because it encourages innovation.
+Norm 29,Universal Basic Income,Agent8,disagree,Agent8 believes this because it encourages innovation.
+Norm 29,Universal Basic Income,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 29,Universal Basic Income,Agent10,disagree,Agent10 believes this because it encourages innovation.
+Norm 30,Climate Change,Agent1,disagree,Agent1 believes this because it is risky.
+Norm 30,Climate Change,Agent2,neutral,Agent2 believes this because it is risky.
+Norm 30,Climate Change,Agent3,disagree,Agent3 believes this because it encourages innovation.
+Norm 30,Climate Change,Agent4,neutral,Agent4 believes this because it encourages innovation.
+Norm 30,Climate Change,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 30,Climate Change,Agent6,neutral,Agent6 believes this because it encourages innovation.
+Norm 30,Climate Change,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 30,Climate Change,Agent8,neutral,Agent8 believes this because it is risky.
+Norm 30,Climate Change,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 30,Climate Change,Agent10,neutral,Agent10 believes this because it encourages innovation.
+Norm 31,Artificial Intelligence,Agent1,disagree,Agent1 believes this because it encourages innovation.
+Norm 31,Artificial Intelligence,Agent2,neutral,Agent2 believes this because it is risky.
+Norm 31,Artificial Intelligence,Agent3,agree,Agent3 believes this because it is risky.
+Norm 31,Artificial Intelligence,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 31,Artificial Intelligence,Agent5,agree,Agent5 believes this because it encourages innovation.
+Norm 31,Artificial Intelligence,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 31,Artificial Intelligence,Agent7,agree,Agent7 believes this because it is risky.
+Norm 31,Artificial Intelligence,Agent8,neutral,Agent8 believes this because it encourages innovation.
+Norm 31,Artificial Intelligence,Agent9,agree,Agent9 believes this because it is fair.
+Norm 31,Artificial Intelligence,Agent10,agree,Agent10 believes this because it is risky.
+Norm 32,Data Privacy,Agent1,disagree,Agent1 believes this because it is fair.
+Norm 32,Data Privacy,Agent2,neutral,Agent2 believes this because it is fair.
+Norm 32,Data Privacy,Agent3,agree,Agent3 believes this because it is risky.
+Norm 32,Data Privacy,Agent4,agree,Agent4 believes this because it is risky.
+Norm 32,Data Privacy,Agent5,agree,Agent5 believes this because it is risky.
+Norm 32,Data Privacy,Agent6,disagree,Agent6 believes this because it encourages innovation.
+Norm 32,Data Privacy,Agent7,disagree,Agent7 believes this because it is fair.
+Norm 32,Data Privacy,Agent8,agree,Agent8 believes this because it is fair.
+Norm 32,Data Privacy,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 32,Data Privacy,Agent10,neutral,Agent10 believes this because it encourages innovation.
+Norm 33,Education Reform,Agent1,agree,Agent1 believes this because it is risky.
+Norm 33,Education Reform,Agent2,agree,Agent2 believes this because it encourages innovation.
+Norm 33,Education Reform,Agent3,agree,Agent3 believes this because it encourages innovation.
+Norm 33,Education Reform,Agent4,disagree,Agent4 believes this because it is fair.
+Norm 33,Education Reform,Agent5,neutral,Agent5 believes this because it is fair.
+Norm 33,Education Reform,Agent6,agree,Agent6 believes this because it is fair.
+Norm 33,Education Reform,Agent7,neutral,Agent7 believes this because it is fair.
+Norm 33,Education Reform,Agent8,agree,Agent8 believes this because it encourages innovation.
+Norm 33,Education Reform,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 33,Education Reform,Agent10,agree,Agent10 believes this because it is fair.
+Norm 34,Freedom of Speech,Agent1,agree,Agent1 believes this because it is fair.
+Norm 34,Freedom of Speech,Agent2,disagree,Agent2 believes this because it encourages innovation.
+Norm 34,Freedom of Speech,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 34,Freedom of Speech,Agent4,disagree,Agent4 believes this because it encourages innovation.
+Norm 34,Freedom of Speech,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 34,Freedom of Speech,Agent6,neutral,Agent6 believes this because it encourages innovation.
+Norm 34,Freedom of Speech,Agent7,agree,Agent7 believes this because it is risky.
+Norm 34,Freedom of Speech,Agent8,agree,Agent8 believes this because it is risky.
+Norm 34,Freedom of Speech,Agent9,agree,Agent9 believes this because it is risky.
+Norm 34,Freedom of Speech,Agent10,disagree,Agent10 believes this because it is fair.
+Norm 35,Data Privacy,Agent1,agree,Agent1 believes this because it encourages innovation.
+Norm 35,Data Privacy,Agent2,neutral,Agent2 believes this because it encourages innovation.
+Norm 35,Data Privacy,Agent3,neutral,Agent3 believes this because it is fair.
+Norm 35,Data Privacy,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 35,Data Privacy,Agent5,disagree,Agent5 believes this because it is fair.
+Norm 35,Data Privacy,Agent6,agree,Agent6 believes this because it encourages innovation.
+Norm 35,Data Privacy,Agent7,neutral,Agent7 believes this because it encourages innovation.
+Norm 35,Data Privacy,Agent8,neutral,Agent8 believes this because it is fair.
+Norm 35,Data Privacy,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 35,Data Privacy,Agent10,neutral,Agent10 believes this because it encourages innovation.
+Norm 36,Healthcare Accessibility,Agent1,disagree,Agent1 believes this because it encourages innovation.
+Norm 36,Healthcare Accessibility,Agent2,agree,Agent2 believes this because it encourages innovation.
+Norm 36,Healthcare Accessibility,Agent3,neutral,Agent3 believes this because it encourages innovation.
+Norm 36,Healthcare Accessibility,Agent4,neutral,Agent4 believes this because it encourages innovation.
+Norm 36,Healthcare Accessibility,Agent5,agree,Agent5 believes this because it encourages innovation.
+Norm 36,Healthcare Accessibility,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 36,Healthcare Accessibility,Agent7,agree,Agent7 believes this because it is risky.
+Norm 36,Healthcare Accessibility,Agent8,disagree,Agent8 believes this because it is risky.
+Norm 36,Healthcare Accessibility,Agent9,agree,Agent9 believes this because it is fair.
+Norm 36,Healthcare Accessibility,Agent10,agree,Agent10 believes this because it encourages innovation.
+Norm 37,Animal Rights,Agent1,disagree,Agent1 believes this because it encourages innovation.
+Norm 37,Animal Rights,Agent2,neutral,Agent2 believes this because it is fair.
+Norm 37,Animal Rights,Agent3,agree,Agent3 believes this because it is risky.
+Norm 37,Animal Rights,Agent4,disagree,Agent4 believes this because it is risky.
+Norm 37,Animal Rights,Agent5,disagree,Agent5 believes this because it is fair.
+Norm 37,Animal Rights,Agent6,agree,Agent6 believes this because it is risky.
+Norm 37,Animal Rights,Agent7,neutral,Agent7 believes this because it is fair.
+Norm 37,Animal Rights,Agent8,disagree,Agent8 believes this because it encourages innovation.
+Norm 37,Animal Rights,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 37,Animal Rights,Agent10,disagree,Agent10 believes this because it is fair.
+Norm 38,Space Exploration,Agent1,agree,Agent1 believes this because it is risky.
+Norm 38,Space Exploration,Agent2,disagree,Agent2 believes this because it is fair.
+Norm 38,Space Exploration,Agent3,agree,Agent3 believes this because it is fair.
+Norm 38,Space Exploration,Agent4,disagree,Agent4 believes this because it is risky.
+Norm 38,Space Exploration,Agent5,agree,Agent5 believes this because it is fair.
+Norm 38,Space Exploration,Agent6,agree,Agent6 believes this because it is fair.
+Norm 38,Space Exploration,Agent7,agree,Agent7 believes this because it encourages innovation.
+Norm 38,Space Exploration,Agent8,disagree,Agent8 believes this because it encourages innovation.
+Norm 38,Space Exploration,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 38,Space Exploration,Agent10,disagree,Agent10 believes this because it encourages innovation.
+Norm 39,Freedom of Speech,Agent1,neutral,Agent1 believes this because it is fair.
+Norm 39,Freedom of Speech,Agent2,agree,Agent2 believes this because it is risky.
+Norm 39,Freedom of Speech,Agent3,agree,Agent3 believes this because it is risky.
+Norm 39,Freedom of Speech,Agent4,agree,Agent4 believes this because it is risky.
+Norm 39,Freedom of Speech,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 39,Freedom of Speech,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 39,Freedom of Speech,Agent7,disagree,Agent7 believes this because it encourages innovation.
+Norm 39,Freedom of Speech,Agent8,agree,Agent8 believes this because it is fair.
+Norm 39,Freedom of Speech,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 39,Freedom of Speech,Agent10,agree,Agent10 believes this because it is risky.
+Norm 40,Healthcare Accessibility,Agent1,disagree,Agent1 believes this because it encourages innovation.
+Norm 40,Healthcare Accessibility,Agent2,disagree,Agent2 believes this because it is fair.
+Norm 40,Healthcare Accessibility,Agent3,neutral,Agent3 believes this because it is fair.
+Norm 40,Healthcare Accessibility,Agent4,agree,Agent4 believes this because it is fair.
+Norm 40,Healthcare Accessibility,Agent5,agree,Agent5 believes this because it is risky.
+Norm 40,Healthcare Accessibility,Agent6,disagree,Agent6 believes this because it is risky.
+Norm 40,Healthcare Accessibility,Agent7,agree,Agent7 believes this because it is fair.
+Norm 40,Healthcare Accessibility,Agent8,agree,Agent8 believes this because it is fair.
+Norm 40,Healthcare Accessibility,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 40,Healthcare Accessibility,Agent10,disagree,Agent10 believes this because it is fair.
+Norm 41,Education Reform,Agent1,disagree,Agent1 believes this because it is fair.
+Norm 41,Education Reform,Agent2,neutral,Agent2 believes this because it is risky.
+Norm 41,Education Reform,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 41,Education Reform,Agent4,disagree,Agent4 believes this because it is risky.
+Norm 41,Education Reform,Agent5,disagree,Agent5 believes this because it is fair.
+Norm 41,Education Reform,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 41,Education Reform,Agent7,agree,Agent7 believes this because it is risky.
+Norm 41,Education Reform,Agent8,disagree,Agent8 believes this because it is risky.
+Norm 41,Education Reform,Agent9,neutral,Agent9 believes this because it is fair.
+Norm 41,Education Reform,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 42,Education Reform,Agent1,agree,Agent1 believes this because it is risky.
+Norm 42,Education Reform,Agent2,disagree,Agent2 believes this because it is fair.
+Norm 42,Education Reform,Agent3,neutral,Agent3 believes this because it encourages innovation.
+Norm 42,Education Reform,Agent4,agree,Agent4 believes this because it is risky.
+Norm 42,Education Reform,Agent5,agree,Agent5 believes this because it is risky.
+Norm 42,Education Reform,Agent6,agree,Agent6 believes this because it encourages innovation.
+Norm 42,Education Reform,Agent7,disagree,Agent7 believes this because it is fair.
+Norm 42,Education Reform,Agent8,disagree,Agent8 believes this because it is fair.
+Norm 42,Education Reform,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 42,Education Reform,Agent10,disagree,Agent10 believes this because it is fair.
+Norm 43,Climate Change,Agent1,disagree,Agent1 believes this because it is risky.
+Norm 43,Climate Change,Agent2,neutral,Agent2 believes this because it is risky.
+Norm 43,Climate Change,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 43,Climate Change,Agent4,neutral,Agent4 believes this because it is risky.
+Norm 43,Climate Change,Agent5,disagree,Agent5 believes this because it is risky.
+Norm 43,Climate Change,Agent6,agree,Agent6 believes this because it is fair.
+Norm 43,Climate Change,Agent7,agree,Agent7 believes this because it encourages innovation.
+Norm 43,Climate Change,Agent8,disagree,Agent8 believes this because it is fair.
+Norm 43,Climate Change,Agent9,agree,Agent9 believes this because it is risky.
+Norm 43,Climate Change,Agent10,agree,Agent10 believes this because it is risky.
+Norm 44,Healthcare Accessibility,Agent1,agree,Agent1 believes this because it encourages innovation.
+Norm 44,Healthcare Accessibility,Agent2,agree,Agent2 believes this because it is fair.
+Norm 44,Healthcare Accessibility,Agent3,neutral,Agent3 believes this because it is fair.
+Norm 44,Healthcare Accessibility,Agent4,neutral,Agent4 believes this because it is fair.
+Norm 44,Healthcare Accessibility,Agent5,neutral,Agent5 believes this because it is risky.
+Norm 44,Healthcare Accessibility,Agent6,neutral,Agent6 believes this because it encourages innovation.
+Norm 44,Healthcare Accessibility,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 44,Healthcare Accessibility,Agent8,neutral,Agent8 believes this because it encourages innovation.
+Norm 44,Healthcare Accessibility,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 44,Healthcare Accessibility,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 45,Freedom of Speech,Agent1,neutral,Agent1 believes this because it is risky.
+Norm 45,Freedom of Speech,Agent2,neutral,Agent2 believes this because it is fair.
+Norm 45,Freedom of Speech,Agent3,disagree,Agent3 believes this because it encourages innovation.
+Norm 45,Freedom of Speech,Agent4,agree,Agent4 believes this because it is risky.
+Norm 45,Freedom of Speech,Agent5,agree,Agent5 believes this because it encourages innovation.
+Norm 45,Freedom of Speech,Agent6,neutral,Agent6 believes this because it is risky.
+Norm 45,Freedom of Speech,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 45,Freedom of Speech,Agent8,agree,Agent8 believes this because it is fair.
+Norm 45,Freedom of Speech,Agent9,disagree,Agent9 believes this because it encourages innovation.
+Norm 45,Freedom of Speech,Agent10,disagree,Agent10 believes this because it encourages innovation.
+Norm 46,Universal Basic Income,Agent1,disagree,Agent1 believes this because it is risky.
+Norm 46,Universal Basic Income,Agent2,disagree,Agent2 believes this because it is fair.
+Norm 46,Universal Basic Income,Agent3,agree,Agent3 believes this because it is fair.
+Norm 46,Universal Basic Income,Agent4,neutral,Agent4 believes this because it is risky.
+Norm 46,Universal Basic Income,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 46,Universal Basic Income,Agent6,disagree,Agent6 believes this because it encourages innovation.
+Norm 46,Universal Basic Income,Agent7,neutral,Agent7 believes this because it encourages innovation.
+Norm 46,Universal Basic Income,Agent8,agree,Agent8 believes this because it encourages innovation.
+Norm 46,Universal Basic Income,Agent9,agree,Agent9 believes this because it encourages innovation.
+Norm 46,Universal Basic Income,Agent10,agree,Agent10 believes this because it is risky.
+Norm 47,Renewable Energy,Agent1,neutral,Agent1 believes this because it encourages innovation.
+Norm 47,Renewable Energy,Agent2,neutral,Agent2 believes this because it is fair.
+Norm 47,Renewable Energy,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 47,Renewable Energy,Agent4,neutral,Agent4 believes this because it is risky.
+Norm 47,Renewable Energy,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 47,Renewable Energy,Agent6,neutral,Agent6 believes this because it is fair.
+Norm 47,Renewable Energy,Agent7,agree,Agent7 believes this because it encourages innovation.
+Norm 47,Renewable Energy,Agent8,agree,Agent8 believes this because it is fair.
+Norm 47,Renewable Energy,Agent9,disagree,Agent9 believes this because it encourages innovation.
+Norm 47,Renewable Energy,Agent10,disagree,Agent10 believes this because it encourages innovation.
+Norm 48,Education Reform,Agent1,disagree,Agent1 believes this because it is fair.
+Norm 48,Education Reform,Agent2,agree,Agent2 believes this because it is risky.
+Norm 48,Education Reform,Agent3,neutral,Agent3 believes this because it is fair.
+Norm 48,Education Reform,Agent4,disagree,Agent4 believes this because it is fair.
+Norm 48,Education Reform,Agent5,disagree,Agent5 believes this because it is fair.
+Norm 48,Education Reform,Agent6,disagree,Agent6 believes this because it is risky.
+Norm 48,Education Reform,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 48,Education Reform,Agent8,neutral,Agent8 believes this because it is risky.
+Norm 48,Education Reform,Agent9,agree,Agent9 believes this because it is fair.
+Norm 48,Education Reform,Agent10,neutral,Agent10 believes this because it is risky.
+Norm 49,Climate Change,Agent1,agree,Agent1 believes this because it is fair.
+Norm 49,Climate Change,Agent2,agree,Agent2 believes this because it is fair.
+Norm 49,Climate Change,Agent3,disagree,Agent3 believes this because it is risky.
+Norm 49,Climate Change,Agent4,disagree,Agent4 believes this because it is risky.
+Norm 49,Climate Change,Agent5,agree,Agent5 believes this because it encourages innovation.
+Norm 49,Climate Change,Agent6,disagree,Agent6 believes this because it is fair.
+Norm 49,Climate Change,Agent7,neutral,Agent7 believes this because it encourages innovation.
+Norm 49,Climate Change,Agent8,neutral,Agent8 believes this because it encourages innovation.
+Norm 49,Climate Change,Agent9,neutral,Agent9 believes this because it is risky.
+Norm 49,Climate Change,Agent10,agree,Agent10 believes this because it is fair.
+Norm 50,Artificial Intelligence,Agent1,agree,Agent1 believes this because it is risky.
+Norm 50,Artificial Intelligence,Agent2,agree,Agent2 believes this because it is risky.
+Norm 50,Artificial Intelligence,Agent3,agree,Agent3 believes this because it is risky.
+Norm 50,Artificial Intelligence,Agent4,agree,Agent4 believes this because it is fair.
+Norm 50,Artificial Intelligence,Agent5,disagree,Agent5 believes this because it encourages innovation.
+Norm 50,Artificial Intelligence,Agent6,agree,Agent6 believes this because it is risky.
+Norm 50,Artificial Intelligence,Agent7,disagree,Agent7 believes this because it is risky.
+Norm 50,Artificial Intelligence,Agent8,neutral,Agent8 believes this because it is fair.
+Norm 50,Artificial Intelligence,Agent9,disagree,Agent9 believes this because it is risky.
+Norm 50,Artificial Intelligence,Agent10,agree,Agent10 believes this because it encourages innovation.

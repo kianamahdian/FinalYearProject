@@ -1,0 +1,26 @@
+Norm,Topic,Agent,Stance,Argument
+Norm1,Climate Change Action,Agent1,neutral,Agent1 believes this is unclear.
+Norm1,Climate Change Action,Agent2,disagree,Agent2 believes this is harmful.
+Norm1,Climate Change Action,Agent3,disagree,Agent3 believes this is beneficial.
+Norm1,Climate Change Action,Agent4,agree,Agent4 believes this is beneficial.
+Norm1,Climate Change Action,Agent5,neutral,Agent5 believes this is beneficial.
+Norm2,Artificial Intelligence Ethics,Agent1,disagree,Agent1 believes this is beneficial.
+Norm2,Artificial Intelligence Ethics,Agent2,disagree,Agent2 believes this is beneficial.
+Norm2,Artificial Intelligence Ethics,Agent3,neutral,Agent3 believes this is harmful.
+Norm2,Artificial Intelligence Ethics,Agent4,agree,Agent4 believes this is unclear.
+Norm2,Artificial Intelligence Ethics,Agent5,disagree,Agent5 believes this is unclear.
+Norm3,Space Exploration Funding,Agent1,neutral,Agent1 believes this is unclear.
+Norm3,Space Exploration Funding,Agent2,disagree,Agent2 believes this is beneficial.
+Norm3,Space Exploration Funding,Agent3,neutral,Agent3 believes this is harmful.
+Norm3,Space Exploration Funding,Agent4,disagree,Agent4 believes this is unclear.
+Norm3,Space Exploration Funding,Agent5,agree,Agent5 believes this is beneficial.
+Norm4,Universal Basic Income,Agent1,neutral,Agent1 believes this is unclear.
+Norm4,Universal Basic Income,Agent2,neutral,Agent2 believes this is harmful.
+Norm4,Universal Basic Income,Agent3,neutral,Agent3 believes this is harmful.
+Norm4,Universal Basic Income,Agent4,agree,Agent4 believes this is harmful.
+Norm4,Universal Basic Income,Agent5,agree,Agent5 believes this is unclear.
+Norm5,Online Privacy Regulations,Agent1,agree,Agent1 believes this is unclear.
+Norm5,Online Privacy Regulations,Agent2,neutral,Agent2 believes this is beneficial.
+Norm5,Online Privacy Regulations,Agent3,neutral,Agent3 believes this is unclear.
+Norm5,Online Privacy Regulations,Agent4,neutral,Agent4 believes this is unclear.
+Norm5,Online Privacy Regulations,Agent5,disagree,Agent5 believes this is harmful.

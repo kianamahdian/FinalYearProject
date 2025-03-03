@@ -1,0 +1,1021 @@
+Norm,Agent1,Agent2,Agent1_Stance,Agent2_Stance,Status
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent2,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent3,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent4,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent1,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent3,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent4,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent1,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent2,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent4,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent1,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent2,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent3,agree,agree,defended
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent1,Agent2,disagree,disagree,defended
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent1,Agent3,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent1,Agent4,disagree,agree,attack
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent2,Agent1,disagree,disagree,defended
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent2,Agent3,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent2,Agent4,disagree,agree,attack
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent3,Agent1,neutral,disagree,neutral
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent3,Agent2,neutral,disagree,neutral
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent3,Agent4,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent4,Agent1,agree,disagree,attack
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent4,Agent2,agree,disagree,attack
+"Regarding Climate Change, it is proposed that international cooperation is mandatory for success.",Agent4,Agent3,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent1,Agent2,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent1,Agent3,neutral,neutral,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent2,Agent1,disagree,neutral,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent2,Agent3,disagree,neutral,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent2,Agent4,disagree,disagree,defended
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent3,Agent1,neutral,neutral,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent3,Agent2,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent3,Agent4,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent4,Agent2,disagree,disagree,defended
+"Regarding Data Privacy, it is proposed that research must focus on ethical implications first.",Agent4,Agent3,disagree,neutral,neutral
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent1,Agent2,disagree,agree,attack
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent1,Agent3,disagree,disagree,defended
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent1,Agent4,disagree,agree,attack
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent2,Agent1,agree,disagree,attack
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent2,Agent3,agree,disagree,attack
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent2,Agent4,agree,agree,defended
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent3,Agent1,disagree,disagree,defended
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent3,Agent2,disagree,agree,attack
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent3,Agent4,disagree,agree,attack
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent4,Agent1,agree,disagree,attack
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent4,Agent2,agree,agree,defended
+A new rule in Healthcare Accessibility suggests that governments must invest at least 50% of their budget into related technologies.,Agent4,Agent3,agree,disagree,attack
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent2,agree,disagree,attack
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent3,agree,agree,defended
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent4,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent1,disagree,agree,attack
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent3,disagree,agree,attack
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent4,disagree,neutral,neutral
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent1,agree,agree,defended
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent2,agree,disagree,attack
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent4,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent1,neutral,agree,neutral
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent2,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent3,neutral,agree,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent1,Agent2,neutral,neutral,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent1,Agent3,neutral,agree,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent1,Agent4,neutral,agree,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent2,Agent1,neutral,neutral,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent2,Agent3,neutral,agree,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent2,Agent4,neutral,agree,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent3,Agent1,agree,neutral,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent3,Agent2,agree,neutral,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent3,Agent4,agree,agree,defended
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent4,Agent1,agree,neutral,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent4,Agent2,agree,neutral,neutral
+"In the context of Animal Rights, the norm states that international cooperation is mandatory for success.",Agent4,Agent3,agree,agree,defended
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent2,agree,agree,defended
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent3,agree,neutral,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent4,agree,neutral,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent1,agree,agree,defended
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent3,agree,neutral,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent4,agree,neutral,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent1,neutral,agree,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent2,neutral,agree,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent4,neutral,neutral,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent1,neutral,agree,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent2,neutral,agree,neutral
+A new rule in Data Privacy suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent3,neutral,neutral,neutral
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent1,Agent2,disagree,agree,attack
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent1,Agent3,disagree,disagree,defended
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent1,Agent4,disagree,disagree,defended
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent2,Agent1,agree,disagree,attack
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent2,Agent3,agree,disagree,attack
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent2,Agent4,agree,disagree,attack
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent3,Agent1,disagree,disagree,defended
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent3,Agent2,disagree,agree,attack
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent3,Agent4,disagree,disagree,defended
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent4,Agent1,disagree,disagree,defended
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent4,Agent2,disagree,agree,attack
+"In the context of Climate Change, the norm states that this effort should not compromise personal freedoms.",Agent4,Agent3,disagree,disagree,defended
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent1,Agent2,disagree,neutral,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent1,Agent3,disagree,neutral,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent1,Agent4,disagree,agree,attack
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent2,Agent1,neutral,disagree,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent2,Agent3,neutral,neutral,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent2,Agent4,neutral,agree,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent3,Agent1,neutral,disagree,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent3,Agent2,neutral,neutral,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent3,Agent4,neutral,agree,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent4,Agent1,agree,disagree,attack
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent4,Agent2,agree,neutral,neutral
+"In the context of Data Privacy, the norm states that everyone has equal access to the benefits of this effort.",Agent4,Agent3,agree,neutral,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent1,Agent2,agree,disagree,attack
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent1,Agent3,agree,neutral,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent1,Agent4,agree,neutral,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent2,Agent1,disagree,agree,attack
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent2,Agent3,disagree,neutral,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent2,Agent4,disagree,neutral,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent3,Agent1,neutral,agree,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent3,Agent2,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent3,Agent4,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent4,Agent1,neutral,agree,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent4,Agent2,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that international cooperation is mandatory for success.",Agent4,Agent3,neutral,neutral,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent2,neutral,neutral,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent1,neutral,neutral,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent3,neutral,agree,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent4,neutral,disagree,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent2,agree,neutral,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent4,agree,disagree,attack
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent2,disagree,neutral,neutral
+"Regarding Renewable Energy, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent3,disagree,agree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent2,agree,agree,defended
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent3,agree,disagree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent4,agree,disagree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent1,agree,agree,defended
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent3,agree,disagree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent4,agree,disagree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent1,disagree,agree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent2,disagree,agree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent4,disagree,disagree,defended
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent1,disagree,agree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent2,disagree,agree,attack
+A new rule in Climate Change suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent3,disagree,disagree,defended
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent1,Agent2,neutral,agree,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent1,Agent3,neutral,neutral,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent1,Agent4,neutral,agree,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent2,Agent1,agree,neutral,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent2,Agent3,agree,neutral,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent2,Agent4,agree,agree,defended
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent3,Agent1,neutral,neutral,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent3,Agent2,neutral,agree,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent3,Agent4,neutral,agree,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent4,Agent1,agree,neutral,neutral
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent4,Agent2,agree,agree,defended
+A new rule in Space Exploration suggests that violators should face legal consequences for non-compliance.,Agent4,Agent3,agree,neutral,neutral
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent2,agree,disagree,attack
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent3,agree,agree,defended
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent4,agree,agree,defended
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent1,disagree,agree,attack
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent3,disagree,agree,attack
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent4,disagree,agree,attack
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent1,agree,agree,defended
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent2,agree,disagree,attack
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent4,agree,agree,defended
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent1,agree,agree,defended
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent2,agree,disagree,attack
+A new rule in Climate Change suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent3,agree,agree,defended
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent1,Agent2,agree,disagree,attack
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent1,Agent3,agree,agree,defended
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent1,Agent4,agree,neutral,neutral
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent2,Agent1,disagree,agree,attack
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent2,Agent3,disagree,agree,attack
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent2,Agent4,disagree,neutral,neutral
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent3,Agent1,agree,agree,defended
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent3,Agent2,agree,disagree,attack
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent3,Agent4,agree,neutral,neutral
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent4,Agent1,neutral,agree,neutral
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent4,Agent2,neutral,disagree,neutral
+A new rule in Space Exploration suggests that there must be strict regulations to prevent misuse.,Agent4,Agent3,neutral,agree,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent1,Agent2,neutral,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent1,Agent3,neutral,disagree,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent2,Agent1,neutral,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent2,Agent3,neutral,disagree,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent2,Agent4,neutral,disagree,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent3,Agent1,disagree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent3,Agent2,disagree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent3,Agent4,disagree,disagree,defended
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent4,Agent2,disagree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that research must focus on ethical implications first.",Agent4,Agent3,disagree,disagree,defended
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent2,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent3,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent4,disagree,agree,attack
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent1,neutral,disagree,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent3,neutral,neutral,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent4,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent1,neutral,disagree,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent2,neutral,neutral,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent4,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent1,agree,disagree,attack
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent2,agree,neutral,neutral
+"Regarding Climate Change, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent3,agree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent2,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent3,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent4,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent1,agree,disagree,attack
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent3,agree,agree,defended
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent4,agree,agree,defended
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent1,agree,disagree,attack
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent2,agree,agree,defended
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent4,agree,agree,defended
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent1,agree,disagree,attack
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent2,agree,agree,defended
+"Regarding Universal Basic Income, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent3,agree,agree,defended
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent2,agree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent3,agree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent4,agree,disagree,attack
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent1,neutral,agree,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent3,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent4,neutral,disagree,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent1,neutral,agree,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent2,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent4,neutral,disagree,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent1,disagree,agree,attack
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent2,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent3,disagree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent2,disagree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent3,disagree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent4,disagree,agree,attack
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent1,neutral,disagree,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent3,neutral,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent4,neutral,agree,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent1,neutral,disagree,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent2,neutral,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent4,neutral,agree,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent1,agree,disagree,attack
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent2,agree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent3,agree,neutral,neutral
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent2,neutral,disagree,neutral
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent3,neutral,disagree,neutral
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent4,neutral,agree,neutral
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent1,disagree,neutral,neutral
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent3,disagree,disagree,defended
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent4,disagree,agree,attack
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent1,disagree,neutral,neutral
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent2,disagree,disagree,defended
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent4,disagree,agree,attack
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent1,agree,neutral,neutral
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent2,agree,disagree,attack
+A new rule in Animal Rights suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent3,agree,disagree,attack
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent2,disagree,agree,attack
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent3,disagree,agree,attack
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent4,disagree,neutral,neutral
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent1,agree,disagree,attack
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent3,agree,agree,defended
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent4,agree,neutral,neutral
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent1,agree,disagree,attack
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent2,agree,agree,defended
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent4,agree,neutral,neutral
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent1,neutral,disagree,neutral
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent2,neutral,agree,neutral
+"In the context of Space Exploration, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent3,neutral,agree,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent1,Agent2,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent1,Agent3,agree,agree,defended
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent1,Agent4,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent2,Agent1,neutral,agree,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent2,Agent3,neutral,agree,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent2,Agent4,neutral,neutral,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent3,Agent1,agree,agree,defended
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent3,Agent2,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent3,Agent4,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent4,Agent1,neutral,agree,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent4,Agent2,neutral,neutral,neutral
+A new rule in Freedom of Speech suggests that research must focus on ethical implications first.,Agent4,Agent3,neutral,agree,neutral
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent1,Agent2,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent1,Agent3,agree,disagree,attack
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent1,Agent4,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent2,Agent1,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent2,Agent3,agree,disagree,attack
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent2,Agent4,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent3,Agent1,disagree,agree,attack
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent3,Agent2,disagree,agree,attack
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent3,Agent4,disagree,agree,attack
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent4,Agent1,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent4,Agent2,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that research must focus on ethical implications first.",Agent4,Agent3,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent2,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent3,disagree,neutral,neutral
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent4,disagree,disagree,defended
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent1,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent3,agree,neutral,neutral
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent4,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent1,neutral,disagree,neutral
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent2,neutral,agree,neutral
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent4,neutral,disagree,neutral
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent1,disagree,disagree,defended
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent2,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent3,disagree,neutral,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent1,Agent2,neutral,disagree,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent1,Agent3,neutral,neutral,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent1,Agent4,neutral,agree,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent2,Agent1,disagree,neutral,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent2,Agent3,disagree,neutral,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent2,Agent4,disagree,agree,attack
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent3,Agent1,neutral,neutral,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent3,Agent2,neutral,disagree,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent3,Agent4,neutral,agree,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent4,Agent1,agree,neutral,neutral
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent4,Agent2,agree,disagree,attack
+A new rule in Artificial Intelligence suggests that international cooperation is mandatory for success.,Agent4,Agent3,agree,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent1,Agent2,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent1,Agent3,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent1,Agent4,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent2,Agent1,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent2,Agent3,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent2,Agent4,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent3,Agent1,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent3,Agent2,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent3,Agent4,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent4,Agent1,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent4,Agent2,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that communities are encouraged to take grassroots actions.,Agent4,Agent3,neutral,disagree,neutral
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent2,neutral,disagree,neutral
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent4,neutral,agree,neutral
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent1,disagree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent3,disagree,agree,attack
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent4,disagree,agree,attack
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent2,agree,disagree,attack
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent4,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent1,agree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent2,agree,disagree,attack
+"Regarding Healthcare Accessibility, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent3,agree,agree,defended
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent2,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent4,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent1,agree,neutral,neutral
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent3,agree,agree,defended
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent4,agree,agree,defended
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent2,agree,agree,defended
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent4,agree,agree,defended
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent1,agree,neutral,neutral
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent2,agree,agree,defended
+"Regarding Climate Change, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent3,agree,agree,defended
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent2,disagree,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent3,disagree,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent4,disagree,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent1,neutral,disagree,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent3,neutral,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent4,neutral,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent1,neutral,disagree,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent2,neutral,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent4,neutral,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent1,neutral,disagree,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent2,neutral,neutral,neutral
+"In the context of Space Exploration, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent3,neutral,neutral,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent1,Agent2,disagree,disagree,defended
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent1,Agent3,disagree,neutral,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent1,Agent4,disagree,neutral,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent2,Agent1,disagree,disagree,defended
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent2,Agent3,disagree,neutral,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent2,Agent4,disagree,neutral,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent3,Agent1,neutral,disagree,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent3,Agent2,neutral,disagree,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent3,Agent4,neutral,neutral,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent4,Agent1,neutral,disagree,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent4,Agent2,neutral,disagree,neutral
+A new rule in Data Privacy suggests that everyone has equal access to the benefits of this effort.,Agent4,Agent3,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent1,Agent2,agree,disagree,attack
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent1,Agent3,agree,disagree,attack
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent1,Agent4,agree,disagree,attack
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent2,Agent1,disagree,agree,attack
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent2,Agent3,disagree,disagree,defended
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent2,Agent4,disagree,disagree,defended
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent3,Agent1,disagree,agree,attack
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent3,Agent2,disagree,disagree,defended
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent3,Agent4,disagree,disagree,defended
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent4,Agent1,disagree,agree,attack
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent4,Agent2,disagree,disagree,defended
+"In the context of Universal Basic Income, the norm states that international cooperation is mandatory for success.",Agent4,Agent3,disagree,disagree,defended
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent2,agree,agree,defended
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent3,agree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent4,agree,disagree,attack
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent1,agree,agree,defended
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent3,agree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent4,agree,disagree,attack
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent1,neutral,agree,neutral
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent2,neutral,agree,neutral
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent4,neutral,disagree,neutral
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent1,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent2,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent3,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent1,Agent2,neutral,disagree,neutral
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent1,Agent3,neutral,disagree,neutral
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent1,Agent4,neutral,agree,neutral
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent2,Agent1,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent2,Agent3,disagree,disagree,defended
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent2,Agent4,disagree,agree,attack
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent3,Agent1,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent3,Agent2,disagree,disagree,defended
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent3,Agent4,disagree,agree,attack
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent4,Agent1,agree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent4,Agent2,agree,disagree,attack
+"In the context of Universal Basic Income, the norm states that everyone has equal access to the benefits of this effort.",Agent4,Agent3,agree,disagree,attack
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent2,disagree,agree,attack
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent3,disagree,neutral,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent4,disagree,neutral,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent1,agree,disagree,attack
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent3,agree,neutral,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent4,agree,neutral,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent1,neutral,disagree,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent2,neutral,agree,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent4,neutral,neutral,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent1,neutral,disagree,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent2,neutral,agree,neutral
+"In the context of Healthcare Accessibility, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent3,neutral,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent2,neutral,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent1,neutral,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent3,neutral,agree,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent4,neutral,disagree,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent2,agree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent4,agree,disagree,attack
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent2,disagree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent3,disagree,agree,attack
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent1,Agent2,disagree,agree,attack
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent1,Agent3,disagree,neutral,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent1,Agent4,disagree,neutral,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent2,Agent1,agree,disagree,attack
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent2,Agent3,agree,neutral,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent2,Agent4,agree,neutral,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent3,Agent1,neutral,disagree,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent3,Agent2,neutral,agree,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent3,Agent4,neutral,neutral,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent4,Agent1,neutral,disagree,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent4,Agent2,neutral,agree,neutral
+A new rule in Healthcare Accessibility suggests that this effort should not compromise personal freedoms.,Agent4,Agent3,neutral,neutral,neutral
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent2,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent3,agree,disagree,attack
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent4,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent1,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent3,agree,disagree,attack
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent4,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent1,disagree,agree,attack
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent2,disagree,agree,attack
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent4,disagree,agree,attack
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent1,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent2,agree,agree,defended
+"In the context of Artificial Intelligence, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent3,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent2,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent3,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent1,Agent4,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent1,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent3,agree,agree,defended
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent2,Agent4,agree,agree,defended
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent1,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent2,agree,agree,defended
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent3,Agent4,agree,agree,defended
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent1,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent2,agree,agree,defended
+"Regarding Animal Rights, it is proposed that this effort should not compromise personal freedoms.",Agent4,Agent3,agree,agree,defended
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent2,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent3,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent1,disagree,neutral,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent3,disagree,neutral,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent4,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent1,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent2,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent4,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent2,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent3,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent2,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent3,neutral,disagree,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent4,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent1,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent3,neutral,disagree,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent4,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent1,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent2,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent4,disagree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent1,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent2,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent3,neutral,disagree,neutral
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent2,disagree,disagree,defended
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent3,disagree,disagree,defended
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent4,disagree,agree,attack
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent1,disagree,disagree,defended
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent3,disagree,disagree,defended
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent4,disagree,agree,attack
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent1,disagree,disagree,defended
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent2,disagree,disagree,defended
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent4,disagree,agree,attack
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent1,agree,disagree,attack
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent2,agree,disagree,attack
+A new rule in Freedom of Speech suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent3,agree,disagree,attack
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent1,Agent2,neutral,agree,neutral
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent1,Agent4,neutral,agree,neutral
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent2,Agent1,agree,neutral,neutral
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent2,Agent3,agree,agree,defended
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent2,Agent4,agree,agree,defended
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent3,Agent2,agree,agree,defended
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent3,Agent4,agree,agree,defended
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent4,Agent1,agree,neutral,neutral
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent4,Agent2,agree,agree,defended
+"Regarding Education Reform, it is proposed that international cooperation is mandatory for success.",Agent4,Agent3,agree,agree,defended
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent1,Agent2,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent1,Agent3,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent1,Agent4,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent2,Agent1,neutral,neutral,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent2,Agent3,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent2,Agent4,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent3,Agent1,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent3,Agent2,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent3,Agent4,disagree,disagree,defended
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent4,Agent1,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent4,Agent2,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that international cooperation is mandatory for success.,Agent4,Agent3,disagree,disagree,defended
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent2,neutral,disagree,neutral
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent1,disagree,neutral,neutral
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent3,disagree,agree,attack
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent4,disagree,disagree,defended
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent2,agree,disagree,attack
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent4,agree,disagree,attack
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent2,disagree,disagree,defended
+"Regarding Artificial Intelligence, it is proposed that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent3,disagree,agree,attack
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent1,Agent2,agree,neutral,neutral
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent1,Agent3,agree,disagree,attack
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent1,Agent4,agree,agree,defended
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent2,Agent1,neutral,agree,neutral
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent2,Agent3,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent2,Agent4,neutral,agree,neutral
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent3,Agent1,disagree,agree,attack
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent3,Agent2,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent3,Agent4,disagree,agree,attack
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent4,Agent1,agree,agree,defended
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent4,Agent2,agree,neutral,neutral
+A new rule in Universal Basic Income suggests that violators should face legal consequences for non-compliance.,Agent4,Agent3,agree,disagree,attack
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent1,Agent2,agree,agree,defended
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent1,Agent3,agree,agree,defended
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent1,Agent4,agree,disagree,attack
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent2,Agent1,agree,agree,defended
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent2,Agent3,agree,agree,defended
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent2,Agent4,agree,disagree,attack
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent3,Agent1,agree,agree,defended
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent3,Agent2,agree,agree,defended
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent3,Agent4,agree,disagree,attack
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent4,Agent1,disagree,agree,attack
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent4,Agent2,disagree,agree,attack
+"Regarding Artificial Intelligence, it is proposed that international cooperation is mandatory for success.",Agent4,Agent3,disagree,agree,attack
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent2,agree,agree,defended
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent3,agree,disagree,attack
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent4,agree,neutral,neutral
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent1,agree,agree,defended
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent3,agree,disagree,attack
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent4,agree,neutral,neutral
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent1,disagree,agree,attack
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent2,disagree,agree,attack
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent4,disagree,neutral,neutral
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent1,neutral,agree,neutral
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent2,neutral,agree,neutral
+"In the context of Climate Change, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent3,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent2,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent3,neutral,agree,neutral
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent4,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent1,disagree,neutral,neutral
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent3,disagree,agree,attack
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent4,disagree,disagree,defended
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent1,agree,neutral,neutral
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent2,agree,disagree,attack
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent4,agree,disagree,attack
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent1,disagree,neutral,neutral
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent2,disagree,disagree,defended
+"In the context of Education Reform, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent3,disagree,agree,attack
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent1,Agent2,neutral,agree,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent1,Agent3,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent1,Agent4,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent2,Agent1,agree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent2,Agent3,agree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent2,Agent4,agree,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent3,Agent1,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent3,Agent2,neutral,agree,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent3,Agent4,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent4,Agent1,neutral,neutral,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent4,Agent2,neutral,agree,neutral
+"In the context of Universal Basic Income, the norm states that there must be strict regulations to prevent misuse.",Agent4,Agent3,neutral,neutral,neutral
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent1,Agent2,disagree,agree,attack
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent1,Agent3,disagree,agree,attack
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent1,Agent4,disagree,neutral,neutral
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent2,Agent1,agree,disagree,attack
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent2,Agent3,agree,agree,defended
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent2,Agent4,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent3,Agent1,agree,disagree,attack
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent3,Agent2,agree,agree,defended
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent3,Agent4,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent4,Agent1,neutral,disagree,neutral
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent4,Agent2,neutral,agree,neutral
+A new rule in Freedom of Speech suggests that everyone has equal access to the benefits of this effort.,Agent4,Agent3,neutral,agree,neutral
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent2,disagree,agree,attack
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent3,disagree,disagree,defended
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent4,disagree,disagree,defended
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent1,agree,disagree,attack
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent3,agree,disagree,attack
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent4,agree,disagree,attack
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent1,disagree,disagree,defended
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent2,disagree,agree,attack
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent4,disagree,disagree,defended
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent1,disagree,disagree,defended
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent2,disagree,agree,attack
+"Regarding Healthcare Accessibility, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent3,disagree,disagree,defended
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent2,disagree,agree,attack
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent3,disagree,disagree,defended
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent4,disagree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent1,agree,disagree,attack
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent3,agree,disagree,attack
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent4,agree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent1,disagree,disagree,defended
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent2,disagree,agree,attack
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent4,disagree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent1,neutral,disagree,neutral
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent2,neutral,agree,neutral
+"Regarding Freedom of Speech, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent3,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent2,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent3,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent1,Agent4,neutral,agree,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent1,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent3,neutral,disagree,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent2,Agent4,neutral,agree,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent1,disagree,neutral,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent2,disagree,neutral,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent3,Agent4,disagree,agree,attack
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent1,agree,neutral,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent2,agree,neutral,neutral
+"In the context of Education Reform, the norm states that organizations are required to disclose their related activities publicly.",Agent4,Agent3,agree,disagree,attack
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent1,Agent2,agree,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent1,Agent3,agree,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent1,Agent4,agree,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent2,Agent1,neutral,agree,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent2,Agent3,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent2,Agent4,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent3,Agent1,neutral,agree,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent3,Agent2,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent3,Agent4,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent4,Agent1,neutral,agree,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent4,Agent2,neutral,neutral,neutral
+"In the context of Education Reform, the norm states that there must be strict regulations to prevent misuse.",Agent4,Agent3,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent2,neutral,agree,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent3,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent4,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent1,agree,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent3,agree,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent4,agree,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent1,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent2,neutral,agree,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent4,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent1,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent2,neutral,agree,neutral
+"Regarding Space Exploration, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent3,neutral,neutral,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent1,Agent2,disagree,neutral,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent1,Agent3,disagree,disagree,defended
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent1,Agent4,disagree,neutral,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent2,Agent1,neutral,disagree,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent2,Agent3,neutral,disagree,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent2,Agent4,neutral,neutral,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent3,Agent1,disagree,disagree,defended
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent3,Agent2,disagree,neutral,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent3,Agent4,disagree,neutral,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent4,Agent1,neutral,disagree,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent4,Agent2,neutral,neutral,neutral
+A new rule in Animal Rights suggests that research must focus on ethical implications first.,Agent4,Agent3,neutral,disagree,neutral
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent1,Agent2,agree,agree,defended
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent1,Agent3,agree,neutral,neutral
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent1,Agent4,agree,agree,defended
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent2,Agent1,agree,agree,defended
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent2,Agent3,agree,neutral,neutral
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent2,Agent4,agree,agree,defended
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent3,Agent1,neutral,agree,neutral
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent3,Agent2,neutral,agree,neutral
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent3,Agent4,neutral,agree,neutral
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent4,Agent1,agree,agree,defended
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent4,Agent2,agree,agree,defended
+"Regarding Renewable Energy, it is proposed that there must be strict regulations to prevent misuse.",Agent4,Agent3,agree,neutral,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent2,agree,neutral,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent3,agree,neutral,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent4,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent1,neutral,agree,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent3,neutral,neutral,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent4,neutral,disagree,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent1,neutral,agree,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent2,neutral,neutral,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent4,neutral,disagree,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent1,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent2,disagree,neutral,neutral
+"Regarding Animal Rights, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent3,disagree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent2,neutral,agree,neutral
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent3,neutral,disagree,neutral
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent4,neutral,agree,neutral
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent1,agree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent3,agree,disagree,attack
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent4,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent1,disagree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent2,disagree,agree,attack
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent4,disagree,agree,attack
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent1,agree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent2,agree,agree,defended
+"Regarding Healthcare Accessibility, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent3,agree,disagree,attack
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent2,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent3,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent1,Agent4,neutral,disagree,neutral
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent1,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent3,disagree,disagree,defended
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent2,Agent4,disagree,disagree,defended
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent1,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent2,disagree,disagree,defended
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent3,Agent4,disagree,disagree,defended
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent1,disagree,neutral,neutral
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent2,disagree,disagree,defended
+A new rule in Universal Basic Income suggests that individuals should prioritize this issue over other social problems.,Agent4,Agent3,disagree,disagree,defended
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent2,agree,agree,defended
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent3,agree,agree,defended
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent4,agree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent1,agree,agree,defended
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent3,agree,agree,defended
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent4,agree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent1,agree,agree,defended
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent2,agree,agree,defended
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent4,agree,neutral,neutral
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent1,neutral,agree,neutral
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent2,neutral,agree,neutral
+"Regarding Freedom of Speech, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent3,neutral,agree,neutral
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent1,Agent2,disagree,agree,attack
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent1,Agent3,disagree,agree,attack
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent1,Agent4,disagree,agree,attack
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent2,Agent1,agree,disagree,attack
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent2,Agent3,agree,agree,defended
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent2,Agent4,agree,agree,defended
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent3,Agent1,agree,disagree,attack
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent3,Agent2,agree,agree,defended
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent3,Agent4,agree,agree,defended
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent4,Agent1,agree,disagree,attack
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent4,Agent2,agree,agree,defended
+A new rule in Universal Basic Income suggests that governments must invest at least 50% of their budget into related technologies.,Agent4,Agent3,agree,agree,defended
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent2,neutral,agree,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent3,neutral,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent4,neutral,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent1,agree,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent3,agree,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent4,agree,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent1,neutral,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent2,neutral,agree,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent4,neutral,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent1,neutral,neutral,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent2,neutral,agree,neutral
+"In the context of Data Privacy, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent3,neutral,neutral,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent2,neutral,agree,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent4,neutral,neutral,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent1,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent3,agree,agree,defended
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent4,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent2,agree,agree,defended
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent4,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent1,neutral,neutral,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent2,neutral,agree,neutral
+"Regarding Data Privacy, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent3,neutral,agree,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent2,neutral,neutral,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent3,neutral,disagree,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent4,neutral,disagree,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent1,neutral,neutral,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent3,neutral,disagree,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent4,neutral,disagree,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent1,disagree,neutral,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent2,disagree,neutral,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent4,disagree,disagree,defended
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent1,disagree,neutral,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent2,disagree,neutral,neutral
+"In the context of Renewable Energy, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent3,disagree,disagree,defended
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent2,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent3,disagree,disagree,defended
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent1,Agent4,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent1,neutral,disagree,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent3,neutral,disagree,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent2,Agent4,neutral,neutral,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent1,disagree,disagree,defended
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent2,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent3,Agent4,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent1,neutral,disagree,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent2,neutral,neutral,neutral
+"Regarding Climate Change, it is proposed that violators should face legal consequences for non-compliance.",Agent4,Agent3,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent2,neutral,neutral,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent1,neutral,neutral,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent3,neutral,agree,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent2,Agent4,neutral,disagree,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent2,agree,neutral,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent3,Agent4,agree,disagree,attack
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent2,disagree,neutral,neutral
+"Regarding Data Privacy, it is proposed that communities are encouraged to take grassroots actions.",Agent4,Agent3,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent2,disagree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent3,disagree,disagree,defended
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent4,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent1,neutral,disagree,neutral
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent3,neutral,disagree,neutral
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent4,neutral,agree,neutral
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent1,disagree,disagree,defended
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent2,disagree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent4,disagree,agree,attack
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent1,agree,disagree,attack
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent2,agree,neutral,neutral
+"Regarding Universal Basic Income, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent3,agree,disagree,attack
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent1,Agent2,disagree,agree,attack
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent1,Agent3,disagree,disagree,defended
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent1,Agent4,disagree,disagree,defended
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent2,Agent1,agree,disagree,attack
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent2,Agent3,agree,disagree,attack
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent2,Agent4,agree,disagree,attack
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent3,Agent1,disagree,disagree,defended
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent3,Agent2,disagree,agree,attack
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent3,Agent4,disagree,disagree,defended
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent4,Agent1,disagree,disagree,defended
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent4,Agent2,disagree,agree,attack
+"In the context of Climate Change, the norm states that international cooperation is mandatory for success.",Agent4,Agent3,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent1,Agent2,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent1,Agent3,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent1,Agent4,disagree,neutral,neutral
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent2,Agent1,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent2,Agent3,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent2,Agent4,disagree,neutral,neutral
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent3,Agent1,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent3,Agent2,disagree,disagree,defended
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent3,Agent4,disagree,neutral,neutral
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent4,Agent1,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent4,Agent2,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that international cooperation is mandatory for success.",Agent4,Agent3,neutral,disagree,neutral
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent2,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent3,agree,neutral,neutral
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent1,Agent4,agree,agree,defended
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent1,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent3,disagree,neutral,neutral
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent2,Agent4,disagree,agree,attack
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent1,neutral,agree,neutral
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent2,neutral,disagree,neutral
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent3,Agent4,neutral,agree,neutral
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent1,agree,agree,defended
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent2,agree,disagree,attack
+"Regarding Animal Rights, it is proposed that everyone has equal access to the benefits of this effort.",Agent4,Agent3,agree,neutral,neutral
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent2,agree,agree,defended
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent3,agree,disagree,attack
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent1,Agent4,agree,neutral,neutral
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent1,agree,agree,defended
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent3,agree,disagree,attack
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent2,Agent4,agree,neutral,neutral
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent1,disagree,agree,attack
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent2,disagree,agree,attack
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent3,Agent4,disagree,neutral,neutral
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent1,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent2,neutral,agree,neutral
+"Regarding Climate Change, it is proposed that organizations are required to disclose their related activities publicly.",Agent4,Agent3,neutral,disagree,neutral
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent1,Agent2,disagree,disagree,defended
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent1,Agent3,disagree,agree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent1,Agent4,disagree,agree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent2,Agent1,disagree,disagree,defended
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent2,Agent3,disagree,agree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent2,Agent4,disagree,agree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent3,Agent1,agree,disagree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent3,Agent2,agree,disagree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent3,Agent4,agree,agree,defended
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent4,Agent1,agree,disagree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent4,Agent2,agree,disagree,attack
+"In the context of Freedom of Speech, the norm states that this effort should not compromise personal freedoms.",Agent4,Agent3,agree,agree,defended
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent2,neutral,disagree,neutral
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent3,neutral,agree,neutral
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent1,Agent4,neutral,disagree,neutral
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent1,disagree,neutral,neutral
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent3,disagree,agree,attack
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent2,Agent4,disagree,disagree,defended
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent1,agree,neutral,neutral
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent2,agree,disagree,attack
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent3,Agent4,agree,disagree,attack
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent1,disagree,neutral,neutral
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent2,disagree,disagree,defended
+"In the context of Freedom of Speech, the norm states that governments must invest at least 50% of their budget into related technologies.",Agent4,Agent3,disagree,agree,attack
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent2,disagree,disagree,defended
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent3,disagree,agree,attack
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent1,Agent4,disagree,neutral,neutral
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent1,disagree,disagree,defended
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent3,disagree,agree,attack
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent2,Agent4,disagree,neutral,neutral
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent1,agree,disagree,attack
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent2,agree,disagree,attack
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent3,Agent4,agree,neutral,neutral
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent1,neutral,disagree,neutral
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent2,neutral,disagree,neutral
+A new rule in Animal Rights suggests that organizations are required to disclose their related activities publicly.,Agent4,Agent3,neutral,agree,neutral
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent2,agree,neutral,neutral
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent3,agree,disagree,attack
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent4,agree,disagree,attack
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent1,neutral,agree,neutral
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent3,neutral,disagree,neutral
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent4,neutral,disagree,neutral
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent1,disagree,agree,attack
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent2,disagree,neutral,neutral
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent4,disagree,disagree,defended
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent1,disagree,agree,attack
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent2,disagree,neutral,neutral
+"In the context of Space Exploration, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent3,disagree,disagree,defended
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent1,Agent2,neutral,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent1,Agent3,neutral,agree,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent2,Agent1,neutral,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent2,Agent3,neutral,agree,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent2,Agent4,neutral,disagree,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent3,Agent1,agree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent3,Agent2,agree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent3,Agent4,agree,disagree,attack
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent4,Agent2,disagree,neutral,neutral
+"Regarding Healthcare Accessibility, it is proposed that there must be strict regulations to prevent misuse.",Agent4,Agent3,disagree,agree,attack
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent2,neutral,agree,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent3,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent1,Agent4,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent1,agree,neutral,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent3,agree,neutral,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent2,Agent4,agree,disagree,attack
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent1,neutral,neutral,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent2,neutral,agree,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent3,Agent4,neutral,disagree,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent1,disagree,neutral,neutral
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent2,disagree,agree,attack
+"Regarding Space Exploration, it is proposed that individuals should prioritize this issue over other social problems.",Agent4,Agent3,disagree,neutral,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent2,agree,neutral,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent3,agree,neutral,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent1,Agent4,agree,disagree,attack
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent1,neutral,agree,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent3,neutral,neutral,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent2,Agent4,neutral,disagree,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent1,neutral,agree,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent2,neutral,neutral,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent3,Agent4,neutral,disagree,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent1,disagree,agree,attack
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent2,disagree,neutral,neutral
+"In the context of Animal Rights, the norm states that individuals should prioritize this issue over other social problems.",Agent4,Agent3,disagree,neutral,neutral
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent1,Agent2,agree,neutral,neutral
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent1,Agent3,agree,agree,defended
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent1,Agent4,agree,disagree,attack
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent2,Agent1,neutral,agree,neutral
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent2,Agent3,neutral,agree,neutral
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent2,Agent4,neutral,disagree,neutral
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent3,Agent1,agree,agree,defended
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent3,Agent2,agree,neutral,neutral
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent3,Agent4,agree,disagree,attack
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent4,Agent1,disagree,agree,attack
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent4,Agent2,disagree,neutral,neutral
+A new rule in Animal Rights suggests that this effort should not compromise personal freedoms.,Agent4,Agent3,disagree,agree,attack
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent1,Agent2,disagree,disagree,defended
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent1,Agent3,disagree,disagree,defended
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent1,Agent4,disagree,agree,attack
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent2,Agent1,disagree,disagree,defended
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent2,Agent3,disagree,disagree,defended
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent2,Agent4,disagree,agree,attack
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent3,Agent1,disagree,disagree,defended
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent3,Agent2,disagree,disagree,defended
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent3,Agent4,disagree,agree,attack
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent4,Agent1,agree,disagree,attack
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent4,Agent2,agree,disagree,attack
+A new rule in Data Privacy suggests that violators should face legal consequences for non-compliance.,Agent4,Agent3,agree,disagree,attack
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent2,disagree,disagree,defended
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent3,disagree,disagree,defended
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent1,Agent4,disagree,neutral,neutral
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent1,disagree,disagree,defended
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent3,disagree,disagree,defended
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent2,Agent4,disagree,neutral,neutral
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent1,disagree,disagree,defended
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent2,disagree,disagree,defended
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent3,Agent4,disagree,neutral,neutral
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent1,neutral,disagree,neutral
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent2,neutral,disagree,neutral
+"In the context of Data Privacy, the norm states that violators should face legal consequences for non-compliance.",Agent4,Agent3,neutral,disagree,neutral
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent1,Agent2,neutral,agree,neutral
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent1,Agent3,neutral,disagree,neutral
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent1,Agent4,neutral,agree,neutral
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent2,Agent1,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent2,Agent3,agree,disagree,attack
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent2,Agent4,agree,agree,defended
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent3,Agent1,disagree,neutral,neutral
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent3,Agent2,disagree,agree,attack
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent3,Agent4,disagree,agree,attack
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent4,Agent1,agree,neutral,neutral
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent4,Agent2,agree,agree,defended
+A new rule in Freedom of Speech suggests that this effort should not compromise personal freedoms.,Agent4,Agent3,agree,disagree,attack
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent2,agree,neutral,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent3,agree,neutral,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent1,Agent4,agree,disagree,attack
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent1,neutral,agree,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent3,neutral,neutral,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent2,Agent4,neutral,disagree,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent1,neutral,agree,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent2,neutral,neutral,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent3,Agent4,neutral,disagree,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent1,disagree,agree,attack
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent2,disagree,neutral,neutral
+"In the context of Climate Change, the norm states that communities are encouraged to take grassroots actions.",Agent4,Agent3,disagree,neutral,neutral
